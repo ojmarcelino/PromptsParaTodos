@@ -1,7 +1,5 @@
 # Prompts para todos
 
-Créditos
-
 - [Gestão do Tempo](./GestaoTempo.md)
 - [Metas e Planejamento](Metas.md)
 - [Ferramentas](Ferramentas.md)
